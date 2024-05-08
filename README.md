@@ -1,16 +1,22 @@
-# getxwithnotesapp
+# GetX Notes App
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+GetX Notes App is a mobile application that allows users to create, read, update, and delete notes. It utilizes the GetX package for efficient state management and navigation.
 
-A few resources to get you started if this is your first Flutter project:
+##Features
+Create new notes
+View existing notes
+Update notes
+Delete notes
+Clean and intuitive user interface
+Efficient state management with GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Screenshots
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Screen 1 | Screen 2 |
+|----------|----------|
+| ![Screen 1 ](https://github.com/Jihad82/Flutter-Notes-App-With-Getx/assets/91656309/aa298031-8337-4404-a947-4f7923e5d4d9)| ![Screen 2](screenshots/screen2.png) |
+
