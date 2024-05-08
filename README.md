@@ -18,5 +18,5 @@ Efficient state management with GetX
 
 | Screen 1 | Screen 2 |
 |----------|----------|
-| ![Screen 1 ](https://github.com/Jihad82/Flutter-Notes-App-With-Getx/assets/91656309/aa298031-8337-4404-a947-4f7923e5d4d9)| ![Screen 2](screenshots/screen2.png) |
+| ![Screen 1 ](https://github.com/Jihad82/Flutter-Notes-App-With-Getx/assets/91656309/aa298031-8337-4404-a947-4f7923e5d4d9)| ![Screen 2] |
 
